@@ -1,0 +1,26 @@
+[
+    {
+        "title": "T-Shirt",
+        "price": "100"
+    },
+    {
+        "title": "Shirt",
+        "price": "200"
+    },
+    {
+        "title": "Pant",
+        "price": "150"
+    },
+    {
+        "title": "Hat",
+        "price": "50"
+    },
+    {
+        "title": "Glass",
+        "price": "30"
+    },
+    {
+        "title": "Shoe",
+        "price": "170"
+    }
+]
